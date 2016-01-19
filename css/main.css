@@ -3,16 +3,19 @@ body {
 }
 
 h1 {
+    text-align: center;
     color: aqua;
     font-family: Wingdings, Arial, "Helvetica Nueue", "Lucida Grande", sans-serif;
 }
 
 h2 {
     color: dodgerblue;
+    text-align: center;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
 p {
+    color: azure;
     font-family: monospace;
 }
 
