@@ -1,5 +1,14 @@
+body {
+    background-color: darkblue;
+}
+
+h1 {
+    color: aqua;
+    font-family: Wingdings, Arial, "Helvetica Nueue", "Lucida Grande", sans-serif;
+}
+
 h2 {
-    color: red;
+    color: dodgerblue;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
 
