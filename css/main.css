@@ -1,5 +1,5 @@
 body {
-    background-color: darkblue;
+    background-color: cadetblue;
 }
 
 h1 {
@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-    color: dodgerblue;
+    color: darkgrey;
     text-align: center;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
 }
