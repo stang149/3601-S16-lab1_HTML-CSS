@@ -25,7 +25,15 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
+#pagefooter {
+    margin-top: 100px;
+}
 
+footer {
+    text-align: center;
+    color: azure;
+}
 .centerText {
     text-align: center;
+    color: azure;
 }
