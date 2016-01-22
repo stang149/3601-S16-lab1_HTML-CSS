@@ -5,14 +5,8 @@ body {
 #headertext {
     text-align: center;
     color: aqua;
-    font-family: Wingdings, Arial, "Helvetica Nueue", "Lucida Grande", sans-serif;
-    font-size-adjust: 1.5;
-}
-
-h2 {
-    color: darkgrey;
-    text-align: center;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+    font-size-adjust: 1.5;
 }
 #pageheader {
     margin-bottom: 30px;
@@ -33,7 +27,7 @@ h2 {
 }
 p {
     color: azure;
-    font-family: sans-serif;
+    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
     text-align: center;
     font-size-adjust: 1;
 }
@@ -61,6 +55,4 @@ footer {
     height: 70%;
     margin-left: auto;
     margin-right: auto;
-
-
 }
