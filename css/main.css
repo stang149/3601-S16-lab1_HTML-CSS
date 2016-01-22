@@ -6,7 +6,7 @@ body {
     text-align: center;
     color: aqua;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
-    font-size-adjust: 1.5;
+    font-size: 300%;
 }
 #pageheader {
     margin-bottom: 30px;
@@ -29,7 +29,7 @@ p {
     color: azure;
     font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
     text-align: center;
-    font-size-adjust: 1;
+    font-size: 200%;
 }
 
 img {
