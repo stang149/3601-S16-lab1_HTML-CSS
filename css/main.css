@@ -17,7 +17,6 @@ h2 {
 #pageheader {
     margin-bottom: 30px;
     padding: 20px 20px 20px 20px;
-    padding-bottom: 20px;
     text-align: center;
     display: block;
 }
@@ -25,8 +24,7 @@ h2 {
     position: absolute;
     left: 15px;
     top: 15px;
-    padding: 0px 0px 0px 0px;
-    margin: 0px 0px 0px 0px;
+
 }
 #logo img {
     width: 35%;
@@ -57,4 +55,12 @@ footer {
 .centerText {
     text-align: center;
     color: azure;
+}
+#locationsimage {
+    width: 70%;
+    height: 70%;
+    margin-left: auto;
+    margin-right: auto;
+
+
 }
