@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/stang149/3601-S16-lab1_HTML-CSS" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/devshawn/ulysses.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Richard\WebstormProjects" />
